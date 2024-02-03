@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: khaki;
+}
+
+h1 {
+    background-color: teal;
+}
+
+tr:nth-child(odd) {
+    background-color: gray;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
+tr:hover {
+    background-color: yellow;
+}
+table{
+margin-left:90px;
+}
